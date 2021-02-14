@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Commander-R
+- 👀 I’m interested in Discord Bots
+- 🌱 I’m currently learning Discord.js
+- 📫 You can reach out to me on discord. My discord is @Commander R#9371
