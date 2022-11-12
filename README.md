@@ -13,6 +13,13 @@ let codingLanguages = ["JavaScript", "HyperText Markdown Language", "Cascading S
 let Languages = ["English", "Dutch"];
 ```
 
+
+# Social Stats
+
+![GitHub followers](https://img.shields.io/github/followers/theblobscp?label=Loyal%20Fans&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/theblobscp?label=User%20Stars&style=social)
+
+
 # 🎮 Gaming
 In my spare time i also like to play games a lot, Here are my usernames/link to profiles. Feel free to check them out and/or send a friend request if you want to play some games together :)
 
