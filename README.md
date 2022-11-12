@@ -19,6 +19,10 @@ let Languages = ["English", "Dutch"];
 ![GitHub followers](https://img.shields.io/github/followers/commander-r?label=Folowers&style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/commander-r?label=User%20Stars&style=social)
 
+[![commander-r](https://github-profile-trophy.vercel.app/?username=commander-r&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+
+![commander-r](https://komarev.com/ghpvc/?username=commander-r&label=Profile%20views&color=0e75b6&style=flat)
+
 
 # 🎮 Gaming
 In my spare time i also like to play games a lot, Here are my usernames/link to profiles. Feel free to check them out and/or send a friend request if you want to play some games together :)
