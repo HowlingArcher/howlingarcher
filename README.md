@@ -1,6 +1,6 @@
+![commander-r](https://komarev.com/ghpvc/?username=commander-r&label=Profile%20views&color=0e75b6&style=flat)
 [![commander-r](https://github-profile-trophy.vercel.app/?username=commander-r&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
-![commander-r](https://komarev.com/ghpvc/?username=commander-r&label=Profile%20views&color=0e75b6&style=flat)
 
 
 
