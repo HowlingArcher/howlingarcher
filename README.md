@@ -1,3 +1,9 @@
+[![commander-r](https://github-profile-trophy.vercel.app/?username=commander-r&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+
+![commander-r](https://komarev.com/ghpvc/?username=commander-r&label=Profile%20views&color=0e75b6&style=flat)
+
+
+
 # 👋 Introduction
 ```js
 // Little information about me
@@ -13,15 +19,16 @@ let codingLanguages = ["JavaScript", "HyperText Markdown Language", "Cascading S
 let Languages = ["English", "Dutch"];
 ```
 
+# Contact me
+
+<a href="https://twitter.com/commander_r_9371" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the_blob_scp" height="30" width="40" /></a>
+<a href='https://discord.com/users/271285474516140033' target='_blank'><img align="center" src="icons/discord.svg" alt="commander-r" height="40" width="40"></a>
+
 
 # Social Stats
 
 ![GitHub followers](https://img.shields.io/github/followers/commander-r?label=Folowers&style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/commander-r?label=User%20Stars&style=social)
-
-[![commander-r](https://github-profile-trophy.vercel.app/?username=commander-r&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
-
-![commander-r](https://komarev.com/ghpvc/?username=commander-r&label=Profile%20views&color=0e75b6&style=flat)
 
 
 # 🎮 Gaming
