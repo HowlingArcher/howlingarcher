@@ -42,13 +42,6 @@ Assassin's Creed IV: Black Flag (ongoing)
 
 
 
-
-# 📊 Statistics
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=commander-r&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/commander-r)
-![commander-r](https://github-readme-stats.vercel.app/api/top-langs?username=commander-r&show_icons=true&locale=en&layout=compact&theme=vue-dark)
-![commander-r](https://github-readme-streak-stats.herokuapp.com/?user=commander-r&theme=vue-dark)
-
 # 🧑‍💻 Main Languages and Tools
 
 [![bash](icons/bash.svg)](https://www.gnu.org/software/bash/)
@@ -65,3 +58,14 @@ Assassin's Creed IV: Black Flag (ongoing)
 [![ubuntu](icons/ubuntu.svg)](https://www.ubuntu.org)
 [![vscode](icons/vscode.svg)](https://code.visualstudio.com/)
 [![windows](icons/windows.svg)](https://www.microsoft.com/en-us/windows)
+
+
+
+
+
+
+# 📊 Statistics
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=commander-r&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/commander-r)
+![commander-r](https://github-readme-stats.vercel.app/api/top-langs?username=commander-r&show_icons=true&locale=en&layout=compact&theme=vue-dark)
+![commander-r](https://github-readme-streak-stats.herokuapp.com/?user=commander-r&theme=vue-dark)
