@@ -87,5 +87,5 @@ Assassin's Creed IV: Black Flag (ongoing)
 # 📊 Statistics
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=commander-r&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/commander-r)
-![commander-r](https://github-readme-stats.vercel.app/api/top-langs?username=commander-r&show_icons=true&locale=en&layout=compact&theme=vue-dark)
-![commander-r](https://github-readme-streak-stats.herokuapp.com/?user=commander-r&theme=vue-dark)
+![commander-r](https://github-readme-stats.vercel.app/api/top-langs?username=commander-r&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+![commander-r](https://github-readme-streak-stats.herokuapp.com/?user=commander-r&theme=tokyonight)
