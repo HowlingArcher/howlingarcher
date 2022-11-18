@@ -16,7 +16,7 @@ let gender = "Male";
 let country = "Netherlands";
 
 
-let codingLanguages = ["JavaScript", "HyperText Markdown Language", "Cascading Style Sheets", "Embedded JavaScript"];
+let codingLanguages = ["JavaScript", "HTML", "CSS", "EJS"];
 
 let Languages = ["English", "Dutch"];
 ```
