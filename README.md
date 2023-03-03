@@ -48,7 +48,7 @@ Epic Games: **rprofile**
 
 ## websites:
 
-[My personal blog](https://github.com/commander-r/blog.maurowalker.dev) 
+[My personal blog](https://github.com/commander-r/blog.maurowalker.dev) ([Visit site](https://blog.maurowalker.dev))
 
 [My personal website](https://github.com/commander-r/maurowalker.dev) ([Visit site](https://maurowalker.dev))
 
