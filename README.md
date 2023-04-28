@@ -32,6 +32,7 @@ let Languages = ["English", "Dutch"];
 ![GitHub followers](https://img.shields.io/github/followers/commander-r?label=Folowers&style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/commander-r?label=User%20Stars&style=social)
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/271285474516140033?animated=true)](https://discord.com/users/271285474516140033)
 
 # 🎮 Gaming
 In my spare time i also like to play games a lot, Here are my usernames/link to profiles. Feel free to check them out and/or send a friend request if you want to play some games together :)
