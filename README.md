@@ -29,8 +29,8 @@ let Languages = ["English", "Dutch"];
 
 # Social Stats
 
-![GitHub followers](https://img.shields.io/github/followers/commander-r?label=Folowers&style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/commander-r?label=User%20Stars&style=social)
+![GitHub followers](https://img.shields.io/github/followers/howlingarcher?label=Folowers&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/howlingarcher?label=User%20Stars&style=social)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/271285474516140033?animated=true)](https://discord.com/users/271285474516140033)
 
