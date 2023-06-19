@@ -23,7 +23,7 @@ let Languages = ["English", "Dutch"];
 
 # Contact me
 
-<a href="https://twitter.com/CommanderR9371" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the_blob_scp" height="30" width="40" /></a>
+<a href="[https://twitter.com/CommanderR9371](https://twitter.com/howling_archer)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the_blob_scp" height="30" width="40" /></a>
 <a href='https://discord.com/users/271285474516140033' target='_blank'><img align="center" src="icons/discord.svg" alt="commander-r" height="40" width="40"></a>
 
 
