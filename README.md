@@ -10,20 +10,20 @@
 ```js
 // Little information about me
 
-let nickname = ["Commander R", "R"];
+let nickname = ["Commander R", "R", "HowlingArcher"];
 let birthday = "07/08";
 let gender = "Male";
 let country = "Netherlands";
 
 
-let codingLanguages = ["JavaScript", "HTML", "CSS", "EJS"];
+let codingLanguages = ["JavaScript", "php", "EJS"];
 
 let Languages = ["English", "Dutch"];
 ```
 
 # Contact me
 
-<a href="[https://twitter.com/CommanderR9371](https://twitter.com/howling_archer)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the_blob_scp" height="30" width="40" /></a>
+<a href="https://twitter.com/Howling_Archer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the_blob_scp" height="30" width="40" /></a>
 <a href='https://discord.com/users/271285474516140033' target='_blank'><img align="center" src="icons/discord.svg" alt="commander-r" height="40" width="40"></a>
 
 
@@ -37,23 +37,23 @@ let Languages = ["English", "Dutch"];
 # 🎮 Gaming
 In my spare time i also like to play games a lot, Here are my usernames/link to profiles. Feel free to check them out and/or send a friend request if you want to play some games together :)
 
-Steam: [rprofile](https://steamcommunity.com/id/rprofile/)
+Steam: [rprofile](https://steamcommunity.com/id/HowlingArcher/)
 
 Ubisoft: [Commander-R](https://ubisoftconnect.com/en-US/profile/commander-r/)
 
 GoG Galaxy: [R.Profile](https://www.gog.com/u/R.Profile)
 
-Epic Games: **rprofile**
+Epic Games: **howlingarcher**
 
 # 💻 Current projects
 
 ## websites:
 
-[My personal blog](https://github.com/commander-r/blog.maurowalker.dev) ([Visit site](https://blog.maurowalker.dev))
+[My personal blog](https://github.com/commander-r/blog.maurowalker.dev)
 
 [My personal website](https://github.com/commander-r/maurowalker.dev) ([Visit site](https://maurowalker.dev))
 
-[The Lost Pack Development](https://github.com/The-Lost-Pack-Development/lost-pack.xyz) ([Visit site](https://lost-pack.xyz))
+[The Lost Pack Development](https://github.com/The-Lost-Pack-Development/lost-pack.xyz) ([Visit site](https://www.lost-pack.xyz))
 
 [UndertaleRPG](https://github.com/Undertale-RPG/Undertale-RPG-website) ([Visit site](https://undertalerpg.monster))
 
