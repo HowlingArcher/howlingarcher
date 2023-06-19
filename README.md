@@ -39,7 +39,7 @@ In my spare time i also like to play games a lot, Here are my usernames/link to 
 
 Steam: [rprofile](https://steamcommunity.com/id/HowlingArcher/)
 
-Ubisoft: [Commander-R](https://ubisoftconnect.com/en-US/profile/commander-r/)
+Ubisoft: [RProfile](https://ubisoftconnect.com/en-US/profile/RProfile/)
 
 GoG Galaxy: [R.Profile](https://www.gog.com/u/R.Profile)
 
