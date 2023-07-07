@@ -1,7 +1,7 @@
-![commander-r](https://komarev.com/ghpvc/?username=commander-r&label=Profile%20views&color=0e75b6&style=flat)
+![howlingarcher](https://komarev.com/ghpvc/?username=howlingarcher&label=Profile%20views&color=0e75b6&style=flat)
 
 
-[![commander-r](https://github-profile-trophy.vercel.app/?username=commander-r&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+[![howlingarcher](https://github-profile-trophy.vercel.app/?username=howlingarcher&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
@@ -24,7 +24,7 @@ let Languages = ["English", "Dutch"];
 # Contact me
 
 <a href="https://twitter.com/Howling_Archer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the_blob_scp" height="30" width="40" /></a>
-<a href='https://discord.com/users/271285474516140033' target='_blank'><img align="center" src="icons/discord.svg" alt="commander-r" height="40" width="40"></a>
+<a href='https://discord.com/users/271285474516140033' target='_blank'><img align="center" src="icons/discord.svg" alt="howlingarcher" height="40" width="40"></a>
 
 
 # Social Stats
@@ -91,8 +91,8 @@ Assassin's Creed IV: Black Flag (ongoing)
 
 # 📊 Statistics
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=commander-r&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/commander-r)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=howlingarcher&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/commander-r)
 
-![commander-r](https://github-readme-stats.vercel.app/api/top-langs?username=commander-r&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+![commander-r](https://github-readme-stats.vercel.app/api/top-langs?username=howlingarcher&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
-![commander-r](https://github-readme-streak-stats.herokuapp.com/?user=commander-r&theme=tokyonight)
+![commander-r](https://github-readme-streak-stats.herokuapp.com/?user=howlingarcher&theme=tokyonight)
