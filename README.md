@@ -49,21 +49,18 @@ Epic Games: **howlingarcher**
 
 ## websites:
 
-[My personal blog](https://github.com/commander-r/blog.maurowalker.dev)
+CMS System
 
-[My personal website](https://github.com/commander-r/maurowalker.dev) ([Visit site](https://maurowalker.dev))
-
-[The Lost Pack Development](https://github.com/The-Lost-Pack-Development/lost-pack.xyz) ([Visit site](https://www.lost-pack.xyz))
-
-[UndertaleRPG](https://github.com/Undertale-RPG/Undertale-RPG-website) ([Visit site](https://undertalerpg.monster))
+E-mail ticket system
 
 ## Discord Bots:
 
 [Binary Translator](https://github.com/The-Lost-Pack-Development/Binary-translator)
 
-[The Lost Pack Development](https://github.com/The-Lost-Pack-Development/Lost-Pack-Discord-Bot)
-
 Assassin's Creed IV: Black Flag (ongoing)
+
+## Other
+A desktop application for businesses to manage their empoloyees.
 
 
 
@@ -93,6 +90,6 @@ Assassin's Creed IV: Black Flag (ongoing)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=howlingarcher&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/commander-r)
 
-![commander-r](https://github-readme-stats.vercel.app/api/top-langs?username=howlingarcher&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+![howlingarcher](https://github-readme-stats.vercel.app/api/top-langs?username=howlingarcher&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
-![commander-r](https://github-readme-streak-stats.herokuapp.com/?user=howlingarcher&theme=tokyonight)
+![howlingarcher](https://github-readme-streak-stats.herokuapp.com/?user=howlingarcher&theme=tokyonight)
