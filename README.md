@@ -88,7 +88,7 @@ A desktop application for businesses to manage their empoloyees.
 
 # 📊 Statistics
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=howlingarcher&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/commander-r)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=howlingarcher&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/howlingarcher)
 
 ![howlingarcher](https://github-readme-stats.vercel.app/api/top-langs?username=howlingarcher&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
