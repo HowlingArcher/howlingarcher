@@ -15,6 +15,7 @@ let birthday = "07/08";
 let gender = "Male";
 let country = "Netherlands";
 
+let currentlyLearning = ["C", "Python"]
 
 let codingLanguages = ["JavaScript", "php", "EJS", "NodeJS", "PHP", "JSON", "batch script"];
 
