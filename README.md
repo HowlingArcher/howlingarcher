@@ -10,12 +10,12 @@
 ```js
 // Little information about me
 
-let nickname = ["Commander R", "R", "HowlingArcher"];
+let nicknames = ["Commander R", "RProfile", "HowlingArcher"];
 let birthday = "07/08";
 let gender = "Male";
 let country = "Netherlands";
 
-let currentlyLearning = ["C", "Python"]
+let currentlyLearning = ["C"]
 
 let codingLanguages = ["JavaScript", "php", "EJS", "NodeJS", "PHP", "JSON", "batch script"];
 
@@ -24,7 +24,7 @@ let Languages = ["English", "Dutch"];
 
 # Contact me
 
-<a href="https://twitter.com/Howling_Archer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the_blob_scp" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/Howling_Archer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the_blob_scp" height="30" width="40" /></a> -->
 <a href='https://discord.com/users/271285474516140033' target='_blank'><img align="center" src="icons/discord.svg" alt="howlingarcher" height="40" width="40"></a>
 
 
@@ -38,9 +38,9 @@ let Languages = ["English", "Dutch"];
 # 🎮 Gaming
 In my spare time i also like to play games a lot, Here are my usernames/link to profiles. Feel free to check them out and/or send a friend request if you want to play some games together :)
 
-Steam: [rprofile](https://steamcommunity.com/id/HowlingArcher/)
+Steam: [howlingarcher](https://steamcommunity.com/id/HowlingArcher/)
 
-Ubisoft: [RProfile](https://ubisoftconnect.com/en-US/profile/RProfile/)
+Ubisoft: **HowlingArcher**
 
 GoG Galaxy: [R.Profile](https://www.gog.com/u/R.Profile)
 
@@ -48,21 +48,7 @@ Epic Games: **howlingarcher**
 
 # 💻 Current projects
 
-## websites:
-
-CMS System
-
-E-mail ticket system
-
-## Discord Bots:
-
-[Binary Translator](https://github.com/The-Lost-Pack-Development/Binary-translator)
-
-Assassin's Creed IV: Black Flag (ongoing)
-
-## Other
-A desktop application for businesses to manage their empoloyees.
-
+- [School Project API](https://github.com/Hanz-Car-Rentals/hcr-api) (Private repository)
 
 
 # 🧑‍💻 Main Languages and Tools
