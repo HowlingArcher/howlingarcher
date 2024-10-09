@@ -17,7 +17,7 @@ let country = "Netherlands";
 
 let currentlyLearning = ["C"]
 
-let codingLanguages = ["JavaScript", "php", "EJS", "NodeJS", "PHP", "JSON", "batch script"];
+let codingLanguages = ["JavaScript", "php", "EJS", "NodeJS", "PHP", "JSON", "batch script", "Python"];
 
 let Languages = ["English", "Dutch"];
 ```
