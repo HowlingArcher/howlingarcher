@@ -79,5 +79,3 @@ Epic Games: **howlingarcher**
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=howlingarcher&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/howlingarcher)
 
 ![howlingarcher](https://github-readme-stats.vercel.app/api/top-langs?username=howlingarcher&show_icons=true&locale=en&layout=compact&theme=tokyonight)
-
-![howlingarcher](https://github-readme-streak-stats.herokuapp.com/?user=howlingarcher&theme=tokyonight)
