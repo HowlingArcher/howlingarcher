@@ -42,19 +42,9 @@ Steam: [howlingarcher](https://steamcommunity.com/id/HowlingArcher/)
 
 Ubisoft: **HowlingArcher**
 
-GoG Galaxy: [R.Profile](https://www.gog.com/u/R.Profile)
-
-Epic Games: **howlingarcher**
-
-# 💻 Current projects
-
-- [School Project API](https://github.com/Hanz-Car-Rentals/hcr-api) (Private repository)
-- [touch command in windows](https://github.com/howlingarcher/touch.py) (Public repository)
-
-
 # 🧑‍💻 Main Languages and Tools
 
-[![Arch](https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/arch-linux.svg)](https://archlinux.org/)
+[![Arch](icons/arch.svg)](https://archlinux.org/)
 [![bash](icons/bash.svg)](https://www.gnu.org/software/bash/)
 [![bootstrap](icons/bootstrap.svg)](https://getbootstrap.com)
 [![css](icons/css.svg)](https://www.w3schools.com/css/)
