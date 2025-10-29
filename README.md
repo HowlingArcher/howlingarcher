@@ -54,6 +54,7 @@ Epic Games: **howlingarcher**
 
 # 🧑‍💻 Main Languages and Tools
 
+[![Arch](https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/arch-linux.svg)](https://archlinux.org/)
 [![bash](icons/bash.svg)](https://www.gnu.org/software/bash/)
 [![bootstrap](icons/bootstrap.svg)](https://getbootstrap.com)
 [![css](icons/css.svg)](https://www.w3schools.com/css/)
@@ -66,8 +67,6 @@ Epic Games: **howlingarcher**
 [![nodejs](icons/nodejs.svg)](https://nodejs.org)
 [![raspberrypi](icons/raspberrypi.svg)](https://raspberrypi.org)
 [![ubuntu](icons/ubuntu.svg)](https://www.ubuntu.org)
-[![vscode](icons/vscode.svg)](https://code.visualstudio.com/)
-[![windows](icons/windows.svg)](https://www.microsoft.com/en-us/windows)
 
 
 
